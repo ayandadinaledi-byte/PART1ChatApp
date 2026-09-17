@@ -9,8 +9,9 @@ package com.mycompany.part1chatapp;
  * @author Student
  */
 public class Login {
-    //Comment 2 - username validation
-    //Comment 3 - password complexity
+    //Commit 2 - username validation
+    //Commit 3 - password complexity
+    //Commit 4 - cellphone check
      String firstName, lastName, username, password, cellPhoneNumber;
 
     public Login(String firstName, String lastName, String username, String password, String cellPhoneNumber) {
