@@ -10,6 +10,7 @@ package com.mycompany.part1chatapp;
  */
 public class Login {
     //Comment 2 - username validation
+    //Comment 3 - password complexity
      String firstName, lastName, username, password, cellPhoneNumber;
 
     public Login(String firstName, String lastName, String username, String password, String cellPhoneNumber) {
