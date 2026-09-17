@@ -13,6 +13,7 @@ public class Login {
     //Commit 3 - password complexity
     //Commit 4 - cellphone check
     //Commit 5 - login logic
+    //Commit 6 - final test
      String firstName, lastName, username, password, cellPhoneNumber;
 
     public Login(String firstName, String lastName, String username, String password, String cellPhoneNumber) {
