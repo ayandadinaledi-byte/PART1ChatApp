@@ -9,6 +9,7 @@ package com.mycompany.part1chatapp;
  * @author Student
  */
 public class Login {
+    //Comment 2 - username validation
      String firstName, lastName, username, password, cellPhoneNumber;
 
     public Login(String firstName, String lastName, String username, String password, String cellPhoneNumber) {
